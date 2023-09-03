@@ -1,0 +1,11 @@
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.FrmMain.resources
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\knapi\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\knapi\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\knapi\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\knapi\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
